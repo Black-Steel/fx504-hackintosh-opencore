@@ -4,7 +4,7 @@
 
 Configurations here are considered experimental. Use at your own risk.
 
-Tested version: 0.6.3 [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.3)
+Tested version: 0.6.4 [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.4)
 
 ## Patch DSDT
 
